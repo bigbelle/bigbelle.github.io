@@ -5,8 +5,7 @@ permalink: /hotel/
 ---
 
 # 酒店图片
-![image][01]
-[01]: assets/img/posts/hotel1.jpg '1'
+![image][data:/assets/img/posts/hotel1.jpg]
 
 ![image][02]
 [02]: assets/img/posts/hotel2.jpg '2'
