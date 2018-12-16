@@ -5,6 +5,11 @@ permalink: /hotel/
 ---
 
 # 酒店图片
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![hotel1](assets/img/posts/hotel1.jpg "1111")
+
 ![image][data:/assets/img/posts/hotel1.jpg]
 
 ![image][02]
