@@ -17,8 +17,8 @@ Philippines
 I want to go to Makati Palace Hotel.（并把图片给司机看）
 ![location](/assets/img/posts/location.png "location")
 
-2. 使用grab乘车软件
-请输入酒店名称Makati Palace Hotel
+2. 使用grab乘车软件：
+请输入酒店名称Makati Palace Hotel。
 
 
 # 酒店介绍
