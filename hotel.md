@@ -15,7 +15,7 @@ Philippines
 
 1. 乘坐出租车请告诉司机：
 I want to go to Makati Palace Hotel.（并把图片给司机看）
-![location](/assets/img/posts/location.jpg "location")
+![location](/assets/img/posts/location.png "location")
 
 2. 使用grab乘车软件
 请输入酒店名称Makati Palace Hotel
