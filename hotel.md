@@ -8,7 +8,7 @@ permalink: /hotel/
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-![hotel1](assets/img/posts/hotel1.jpg "1111")
+![hotel1](/assets/img/posts/hotel1.jpg "1111")
 
 ![image][data:/assets/img/posts/hotel1.jpg]
 
