@@ -6,20 +6,16 @@ permalink: /hotel/
 
 # 酒店地址
 
-P Burgos, Makati, Metro Manila
+Makati Palace Hotel 
+5011 P. Burgos corner Caceres Street，
+Makati City，Metro Manila 1200 
+Philippines
 
-<iframe src="https://skydrive.live.com/embed?cid=8B504C1595CD3973&resid=8B504C1595CD3973%2126382&authkey=AJzDcN30q6g4W0Y&em=2" height="700px" frameborder="0" scrolling="no"></iframe>
+# 酒店介绍
 
-# 酒店详情
-
-<iframe src="https://www.google.com/travel/hotels/place%20hotel/place/1835168038465247519/location?ap=YhMxODM1MTY4MDM4NDY1MjQ3NTE5&g2lb=4181926%2C4208993%2C4209588%2C4223281%2C4227717%2C4207631%2C4215556%2C4220469&hl=zh-CN&gl=ph&un=0&q=place%20hotel&rp=OAJAAA&ictx=1&ved=0CEkQqOACKABqFwoTCPD9zqe2o98CFQAAAAAdAAAAABAB&hrf=CgUIiCcQACIDUEhQKhYKBwjjDxABGAcSBwjjDxABGAgYASgAcgIIApoBMRIvUG9ibGFjaW9uLCDppqzljaHokoLluILpqazlsLzmi4nlpKfpg73kvJrpmYTov5GSAQIgAQ&tcfs=EhoaGAoKMjAxOS0wMS0wNxIKMjAxOS0wMS0wOBgCUgA" height="700px" frameborder="0" scrolling="no"></iframe>
+马凯拉皇宫酒店位于马尼拉大都会地图上，是最方便的商务和休闲旅客，是游览菲律宾首都时最方便的下榻之地。我们的马卡迪市不仅距离机场仅13公里或30分钟，而且距离购物中心，娱乐中心和办公室也只有很短的车程或步行路程。
 
 # 酒店图片
-
-<iframe src="https://www.google.com/travel/hotels/place%20hotel/place/1835168038465247519/photos?ap=YhMxODM1MTY4MDM4NDY1MjQ3NTE5&g2lb=4181926%2C4208993%2C4209588%2C4223281%2C4227717%2C4207631%2C4215556%2C4220469&hl=zh-CN&gl=ph&un=0&q=place%20hotel&rp=OAJAAA&ictx=1&ved=0CEkQqOACKABqFwoTCPD9zqe2o98CFQAAAAAdAAAAABAB&hrf=CgUIiCcQACIDUEhQKhYKBwjjDxABGAcSBwjjDxABGAgYASgAcgIIApoBMRIvUG9ibGFjaW9uLCDppqzljaHokoLluILpqazlsLzmi4nlpKfpg73kvJrpmYTov5GSAQIgAQ&tcfs=EhoaGAoKMjAxOS0wMS0wNxIKMjAxOS0wMS0wOBgCUgA" height="700px" frameborder="0" scrolling="no"></iframe>
-
-
-<!-- # 酒店图片
 
 ![hotel1](/assets/img/posts/hotel1.jpg "hotel1")
 
@@ -33,4 +29,8 @@ P Burgos, Makati, Metro Manila
 
 ![hotel6](/assets/img/posts/hotel6.jpg "hotel6")
 
-![hotel7](/assets/img/posts/hotel7.jpg "hotel7") -->
+![hotel7](/assets/img/posts/hotel7.jpg "hotel7")
+
+![hotel8](/assets/img/posts/hotel8.jpg "hotel8")
+
+![hotel9](/assets/img/posts/hotel9.jpg "hotel9")
