@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-title: Sleek # your site title
-author: GitHub User # You :P
+title: 妹子 # your site title
+author: Sean # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -22,6 +22,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Hoter', link: '/hotel'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
