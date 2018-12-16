@@ -27,18 +27,12 @@ I want to go to Makati Palace Hotel.（并把图片给司机看）
 
 # 酒店图片
 
-![hotel1](/assets/img/posts/hotel1.jpg "hotel1")
+![h1](/assets/img/posts/h1.jpg "h1")
 
-![hotel2](/assets/img/posts/hotel2.jpg "hotel2")
+![h2](/assets/img/posts/h2.jpg "h2")
 
-![hotel3](/assets/img/posts/hotel3.jpg "hotel3")
+![h3](/assets/img/posts/h3.jpg "h3")
 
-![hotel4](/assets/img/posts/hotel4.jpg "hotel4")
+![h4](/assets/img/posts/h4.jpg "h4")
 
-![hotel5](/assets/img/posts/hotel5.jpg "hotel5")
-
-![hotel6](/assets/img/posts/hotel6.jpg "hotel6")
-
-![hotel7](/assets/img/posts/hotel7.jpg "hotel7")
-
-![hotel8](/assets/img/posts/hotel8.jpg "hotel8")
+![h5](/assets/img/posts/h5.jpg "h5")

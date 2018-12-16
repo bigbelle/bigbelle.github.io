@@ -3,8 +3,6 @@ layout: post
 title: Getting Started with Sleek
 featured-img: sleek
 mathjax: true
-categories: 菲妹
-type: philippines
 ---
 
 # Getting started
