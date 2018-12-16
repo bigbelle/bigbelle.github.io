@@ -8,6 +8,8 @@ permalink: /hotel/
 
 P Burgos, Makati, Metro Manila
 
+<iframe src="https://skydrive.live.com/embed?cid=8B504C1595CD3973&resid=8B504C1595CD3973%2126382&authkey=AJzDcN30q6g4W0Y&em=2" height="700px" frameborder="0" scrolling="no"></iframe>
+
 # 酒店详情
 
 <iframe src="https://www.google.com/maps/place/Makati+Palace+Hotel/@14.562955,121.029729,15z/data=!4m5!3m4!1s0x0:0x1977d39b9bdf191f!8m2!3d14.562955!4d121.029729" height="700px" frameborder="0" scrolling="no"></iframe>
