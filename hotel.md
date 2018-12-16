@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hotel
+title: 酒店
 permalink: /hotel/
 ---
 
