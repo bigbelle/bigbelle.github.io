@@ -29,7 +29,7 @@ navigation: # Navigation links
   - {name: '联系方式', link: '/contact'}
 
 tagline: >
-  Makati Palace Hotel
+  地址：Makati Palace Hotel
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
