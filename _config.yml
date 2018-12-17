@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: 妹子 # your site title
+title: 凤凰会所 # your site title
 author: Sean # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -29,7 +29,7 @@ navigation: # Navigation links
   - {name: '联系方式', link: '/contact'}
 
 tagline: >
-  国妹18号过来！
+  Makati Palace Hotel
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
